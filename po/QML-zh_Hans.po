@@ -4,198 +4,205 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
+"PO-Revision-Date: 2026-10-25 12:51+0000\n"
+"Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/jasp/jaspesci/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:7
 msgctxt "Description|"
 msgid "ESCI (Beta)"
-msgstr ""
+msgstr "ESCI（测试版）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:8
 msgctxt "Description|"
 msgid "ESCI in JASP"
-msgstr ""
+msgstr "JASP 中的 ESCI"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:18
 msgctxt "Description|"
 msgid "ESCI: Describe"
-msgstr ""
+msgstr "ESCI：描述"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:19
 msgctxt "Description|"
 msgid "Describe"
-msgstr ""
+msgstr "描述"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:26
 msgctxt "Description|"
 msgid "Means and Medians"
-msgstr ""
+msgstr "均值与中位数"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:31
 msgctxt "Description|"
 msgid "ESCI Means and Medians: Single Group"
-msgstr ""
+msgstr "ESCI 均值与中位数：单组"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:32
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:78
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:100
 msgctxt "Description|"
 msgid "Single Group"
-msgstr ""
+msgstr "单组"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:39
 msgctxt "Description|"
 msgid "ESCI Means and Medians: Two Groups"
-msgstr ""
+msgstr "ESCI 均值与中位数：两组"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:40
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:86
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:108
 msgctxt "Description|"
 msgid "Two Groups"
-msgstr ""
+msgstr "两组"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:47
 msgctxt "Description|"
 msgid "ESCI Means and Medians: Paired"
-msgstr ""
+msgstr "ESCI 均值与中位数：配对"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:48
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:116
 msgctxt "Description|"
 msgid "Paired"
-msgstr ""
+msgstr "配对"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:55
 msgctxt "Description|"
 msgid "ESCI Means and Medians: Independent Groups Contrast"
-msgstr ""
+msgstr "ESCI 均值与中位数：独立组对比"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:56
 msgctxt "Description|"
 msgid "Independent Groups Contrast"
-msgstr ""
+msgstr "独立组对比"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:63
 msgctxt "Description|"
 msgid "ESCI Means and Medians: 2x2 Factorial"
-msgstr ""
+msgstr "ESCI 均值与中位数：2×2 析因"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:64
 msgctxt "Description|"
 msgid "2x2 Factorial"
-msgstr ""
+msgstr "2×2 析因"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:72
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:146
 msgctxt "Description|"
 msgid "Correlations"
-msgstr ""
+msgstr "相关"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:77
 msgctxt "Description|"
 msgid "ESCI Correlations: Single Group"
-msgstr ""
+msgstr "ESCI 相关：单组"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:85
 msgctxt "Description|"
 msgid "ESCI Correlations: Two Groups"
-msgstr ""
+msgstr "ESCI 相关：两组"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:94
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:154
 msgctxt "Description|"
 msgid "Proportions"
-msgstr ""
+msgstr "比例"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:99
 msgctxt "Description|"
 msgid "ESCI Proportions: Single Group"
-msgstr ""
+msgstr "ESCI 比例：单组"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:107
 msgctxt "Description|"
 msgid "ESCI Proportions: Two Groups"
-msgstr ""
+msgstr "ESCI 比例：两组"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:115
 msgctxt "Description|"
 msgid "ESCI Proportions: Paired"
-msgstr ""
+msgstr "ESCI 比例：配对"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:124
 msgctxt "Description|"
 msgid "Meta-Analysis"
-msgstr ""
+msgstr "元分析"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:129
 msgctxt "Description|"
 msgid "ESCI Meta-Analysis: Means"
-msgstr ""
+msgstr "ESCI 元分析：均值"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:130
 msgctxt "Description|"
 msgid "Means"
-msgstr ""
+msgstr "均值"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:137
 msgctxt "Description|"
 msgid "ESCI Meta-Analysis: Difference in Means"
-msgstr ""
+msgstr "ESCI 元分析：均值差"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:138
 msgctxt "Description|"
 msgid "Difference in Means"
-msgstr ""
+msgstr "均值差"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:145
 msgctxt "Description|"
 msgid "ESCI Meta-Analysis: Correlations"
-msgstr ""
+msgstr "ESCI 元分析：相关"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:153
 msgctxt "Description|"
 msgid "ESCI Meta-Analysis: Proportions"
-msgstr ""
+msgstr "ESCI 元分析：比例"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:161
 msgctxt "Description|"
 msgid "ESCI Meta-Anlaysis: Difference in Proportions"
-msgstr ""
+msgstr "ESCI 元分析：比例差"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/Description.qml:162
 msgctxt "Description|"
 msgid "Difference in Proportions"
-msgstr ""
+msgstr "比例差"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:9
 msgctxt "AestheticsAll|"
 msgid "Aesthetics"
-msgstr ""
+msgstr "图形属性"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:61
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:498
 msgctxt "AestheticsAll|"
 msgid "Shape"
-msgstr ""
+msgstr "形状"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:94
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:531
 msgctxt "AestheticsAll|"
 msgid "Size"
-msgstr ""
+msgstr "大小"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:126
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:566
 msgctxt "AestheticsAll|"
 msgid "Outline"
-msgstr ""
+msgstr "轮廓"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:159
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:405
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:599
 msgctxt "AestheticsAll|"
 msgid "Fill"
-msgstr ""
+msgstr "填充"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:192
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:350
@@ -203,47 +210,47 @@ msgstr ""
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:632
 msgctxt "AestheticsAll|"
 msgid "Transparency"
-msgstr ""
+msgstr "透明度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:223
 msgctxt "AestheticsAll|"
 msgid "<b>CI</b>"
-msgstr ""
+msgstr "<b>置信区间</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:243
 msgctxt "AestheticsAll|"
 msgid "Style"
-msgstr ""
+msgstr "样式"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:272
 msgctxt "AestheticsAll|"
 msgid "Thickness"
-msgstr ""
+msgstr "粗细"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:313
 msgctxt "AestheticsAll|"
 msgid "Color"
-msgstr ""
+msgstr "颜色"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsAll.qml:385
 msgctxt "AestheticsAll|"
 msgid "<b>Error distribution</b>"
-msgstr ""
+msgstr "<b>误差分布</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsSummary.qml:14
 msgctxt "AestheticsSummary|"
 msgid "<b>Summary</b>"
-msgstr ""
+msgstr "<b>汇总</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsSummary.qml:16
 msgctxt "AestheticsSummary|"
 msgid "Shape"
-msgstr ""
+msgstr "形状"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsSummary.qml:25
 msgctxt "AestheticsSummary|"
 msgid "Size"
-msgstr ""
+msgstr "大小"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsSummary.qml:33
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsSummary.qml:56
@@ -256,367 +263,367 @@ msgstr ""
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsSummary.qml:35
 msgctxt "AestheticsSummary|"
 msgid "Outline"
-msgstr ""
+msgstr "轮廓"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsSummary.qml:45
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsSummary.qml:50
 msgctxt "AestheticsSummary|"
 msgid "Fill"
-msgstr ""
+msgstr "填充"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsSummary.qml:58
 msgctxt "AestheticsSummary|"
 msgid "Transparency"
-msgstr ""
+msgstr "透明度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsSummaryByGroup.qml:39
 msgctxt "AestheticsSummaryByGroup|"
 msgid "Shape"
-msgstr ""
+msgstr "形状"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsSummaryByGroup.qml:64
 msgctxt "AestheticsSummaryByGroup|"
 msgid "Size"
-msgstr ""
+msgstr "大小"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsSummaryByGroup.qml:89
 msgctxt "AestheticsSummaryByGroup|"
 msgid "Outline"
-msgstr ""
+msgstr "轮廓"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsSummaryByGroup.qml:114
 msgctxt "AestheticsSummaryByGroup|"
 msgid "Fill"
-msgstr ""
+msgstr "填充"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/AestheticsSummaryByGroup.qml:139
 msgctxt "AestheticsSummaryByGroup|"
 msgid "Transparency"
-msgstr ""
+msgstr "透明度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ConfLevel.qml:10
 msgctxt "ConfLevel|"
 msgid "Confidence level"
-msgstr ""
+msgstr "置信水平"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/DataLayout.qml:8
 msgctxt "DataLayout|"
 msgid "Layout"
-msgstr ""
+msgstr "布局"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ErrorLayout.qml:8
 msgctxt "ErrorLayout|"
 msgid "Style"
-msgstr ""
+msgstr "样式"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:9
 msgctxt "FigureOptions|"
 msgid "Figure options"
-msgstr ""
+msgstr "图形选项"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:38
 msgctxt "FigureOptions|"
 msgid "<b>Dimensions</b>"
-msgstr ""
+msgstr "<b>尺寸</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:40
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:225
 msgctxt "FigureOptions|"
 msgid "Width"
-msgstr ""
+msgstr "宽度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:51
 msgctxt "FigureOptions|"
 msgid "Height"
-msgstr ""
+msgstr "高度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:64
 msgctxt "FigureOptions|"
 msgid "<b><i>Y</i> axis</b>"
-msgstr ""
+msgstr "<b><i>Y</i> 轴</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:66
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:140
 msgctxt "FigureOptions|"
 msgid "Label"
-msgstr ""
+msgstr "标签"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:79
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:153
 msgctxt "FigureOptions|"
 msgid "Tick font size"
-msgstr ""
+msgstr "刻度字号"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:89
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:164
 msgctxt "FigureOptions|"
 msgid "Label font size"
-msgstr ""
+msgstr "标签字号"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:103
 msgctxt "FigureOptions|"
 msgid "Min"
-msgstr ""
+msgstr "最小值"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:112
 msgctxt "FigureOptions|"
 msgid "Max"
-msgstr ""
+msgstr "最大值"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:125
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:208
 msgctxt "FigureOptions|"
 msgid "Num. tick marks"
-msgstr ""
+msgstr "刻度标记数量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:138
 msgctxt "FigureOptions|"
 msgid "<b><i>X</i> axis</b>"
-msgstr ""
+msgstr "<b><i>X</i> 轴</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:181
 msgctxt "FigureOptions|"
 msgid "Simple labels"
-msgstr ""
+msgstr "简单标签"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:191
 msgctxt "FigureOptions|"
 msgid "<b>Difference axis</b>"
-msgstr ""
+msgstr "<b>差值轴</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:193
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:199
 msgctxt "FigureOptions|"
 msgid "Units"
-msgstr ""
+msgstr "单位"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:224
 msgctxt "FigureOptions|"
 msgid "<b>Distributions</b>"
-msgstr ""
+msgstr "<b>分布</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:238
 msgctxt "FigureOptions|"
 msgid "Style"
-msgstr ""
+msgstr "样式"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:256
 msgctxt "FigureOptions|"
 msgid "<b>Data</b>"
-msgstr ""
+msgstr "<b>数据</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:257
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:262
 msgctxt "FigureOptions|"
 msgid "Layout"
-msgstr ""
+msgstr "布局"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:272
 msgctxt "FigureOptions|"
 msgid "Spread"
-msgstr ""
+msgstr "离散度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/FigureOptions.qml:288
 msgctxt "FigureOptions|"
 msgid "Offset from CI"
-msgstr ""
+msgstr "与置信区间的偏移"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/HeOptions.qml:9
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/HeOptions.qml:32
 msgctxt "HeOptions|"
 msgid "Hypothesis evaluation"
-msgstr ""
+msgstr "假设评估"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/HeOptions.qml:43
 msgctxt "HeOptions|"
 msgid "Evaluate against <i>H</i>₀ of: "
-msgstr ""
+msgstr "对照 <i>H</i>₀ 评估： "
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/HeOptions.qml:65
 msgctxt "HeOptions|"
 msgid "+/- "
-msgstr ""
+msgstr "+/- "
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/HeOptions.qml:105
 msgctxt "HeOptions|"
 msgid "Color for null hypothesis"
-msgstr ""
+msgstr "零假设的颜色"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaAesthetics.qml:7
 msgctxt "MetaAesthetics|"
 msgid "Aesthetics"
-msgstr ""
+msgstr "图形属性"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaAesthetics.qml:59
 msgctxt "MetaAesthetics|"
 msgid "Shape"
-msgstr ""
+msgstr "形状"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaAesthetics.qml:94
 msgctxt "MetaAesthetics|"
 msgid "Outline"
-msgstr ""
+msgstr "轮廓"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaAesthetics.qml:130
 msgctxt "MetaAesthetics|"
 msgid "Fill"
-msgstr ""
+msgstr "填充"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaAesthetics.qml:165
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaAesthetics.qml:327
 msgctxt "MetaAesthetics|"
 msgid "Transparency"
-msgstr ""
+msgstr "透明度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaAesthetics.qml:201
 msgctxt "MetaAesthetics|"
 msgid "<b>CI</b>"
-msgstr ""
+msgstr "<b>置信区间</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaAesthetics.qml:221
 msgctxt "MetaAesthetics|"
 msgid "Style"
-msgstr ""
+msgstr "样式"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaAesthetics.qml:253
 msgctxt "MetaAesthetics|"
 msgid "Thickness"
-msgstr ""
+msgstr "粗细"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaAesthetics.qml:292
 msgctxt "MetaAesthetics|"
 msgid "Color"
-msgstr ""
+msgstr "颜色"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:9
 msgctxt "MetaFigureOptions|"
 msgid "Figure options"
-msgstr ""
+msgstr "图形选项"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:21
 msgctxt "MetaFigureOptions|"
 msgid "<b>Dimensions</b>"
-msgstr ""
+msgstr "<b>尺寸</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:25
 msgctxt "MetaFigureOptions|"
 msgid "Width"
-msgstr ""
+msgstr "宽度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:38
 msgctxt "MetaFigureOptions|"
 msgid "Height"
-msgstr ""
+msgstr "高度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:52
 msgctxt "MetaFigureOptions|"
 msgid "<b><i>Y</i> axis</b>"
-msgstr ""
+msgstr "<b><i>Y</i> 轴</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:56
 msgctxt "MetaFigureOptions|"
 msgid "Diamond height"
-msgstr ""
+msgstr "菱形高度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:69
 msgctxt "MetaFigureOptions|"
 msgid "Include CIs"
-msgstr ""
+msgstr "包含置信区间"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:82
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:124
 msgctxt "MetaFigureOptions|"
 msgid "Tick Font Size"
-msgstr ""
+msgstr "刻度字号"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:104
 msgctxt "MetaFigureOptions|"
 msgid "<b><i>X</i> axis</b>"
-msgstr ""
+msgstr "<b><i>X</i> 轴</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:108
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:202
 msgctxt "MetaFigureOptions|"
 msgid "Label"
-msgstr ""
+msgstr "标签"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:136
 msgctxt "MetaFigureOptions|"
 msgid "Label Font Size"
-msgstr ""
+msgstr "标签字号"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:153
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:218
 msgctxt "MetaFigureOptions|"
 msgid "Min"
-msgstr ""
+msgstr "最小值"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:163
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:229
 msgctxt "MetaFigureOptions|"
 msgid "Max"
-msgstr ""
+msgstr "最大值"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:178
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:244
 msgctxt "MetaFigureOptions|"
 msgid "Num. tick marks"
-msgstr ""
+msgstr "刻度标记数量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:189
 msgctxt "MetaFigureOptions|"
 msgid "Mark zero"
-msgstr ""
+msgstr "标记零"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:198
 msgctxt "MetaFigureOptions|"
 msgid "<b>Difference axis</b>"
-msgstr ""
+msgstr "<b>差值轴</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:265
 msgctxt "MetaFigureOptions|"
 msgid "<b>Sample-size scaling</b>"
-msgstr ""
+msgstr "<b>样本量缩放</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:269
 msgctxt "MetaFigureOptions|"
 msgid "Minimum"
-msgstr ""
+msgstr "最小值"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/MetaFigureOptions.qml:282
 msgctxt "MetaFigureOptions|"
 msgid "Multiplier"
-msgstr ""
+msgstr "乘数"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:10
 msgctxt "ScatterplotOptions|"
 msgid "Scatterplot options"
-msgstr ""
+msgstr "散点图选项"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:31
 msgctxt "ScatterplotOptions|"
 msgid "<b>Dimensions</b>"
-msgstr ""
+msgstr "<b>尺寸</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:36
 msgctxt "ScatterplotOptions|"
 msgid "Width"
-msgstr ""
+msgstr "宽度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:50
 msgctxt "ScatterplotOptions|"
 msgid "Height"
-msgstr ""
+msgstr "高度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:75
 msgctxt "ScatterplotOptions|"
 msgid "<b>Histogram</b>"
-msgstr ""
+msgstr "<b>直方图</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:79
 msgctxt "ScatterplotOptions|"
 msgid "No. bins"
-msgstr ""
+msgstr "箱数"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:92
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:96
@@ -627,239 +634,239 @@ msgstr ""
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:111
 msgctxt "ScatterplotOptions|"
 msgid "<b><i>Y</i> axis</b>"
-msgstr ""
+msgstr "<b><i>Y</i> 轴</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:115
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:227
 msgctxt "ScatterplotOptions|"
 msgid "Label"
-msgstr ""
+msgstr "标签"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:132
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:243
 msgctxt "ScatterplotOptions|"
 msgid "Tick Font Size"
-msgstr ""
+msgstr "刻度字号"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:145
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:256
 msgctxt "ScatterplotOptions|"
 msgid "Label Font Size"
-msgstr ""
+msgstr "标签字号"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:162
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:274
 msgctxt "ScatterplotOptions|"
 msgid "Min"
-msgstr ""
+msgstr "最小值"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:174
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:286
 msgctxt "ScatterplotOptions|"
 msgid "Max"
-msgstr ""
+msgstr "最大值"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:191
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:302
 msgctxt "ScatterplotOptions|"
 msgid "Num. tick marks"
-msgstr ""
+msgstr "刻度标记数量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:222
 msgctxt "ScatterplotOptions|"
 msgid "<b><i>X</i> axis</b>"
-msgstr ""
+msgstr "<b><i>X</i> 轴</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:330
 msgctxt "ScatterplotOptions|"
 msgid "<b>Other options</b>"
-msgstr ""
+msgstr "<b>其他选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:336
 msgctxt "ScatterplotOptions|"
 msgid "Cross through means of <i>X</i> and <i>Y</i>"
-msgstr ""
+msgstr "穿过 <i>X</i> 和 <i>Y</i> 的均值"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:344
 msgctxt "ScatterplotOptions|"
 msgid "<i>Z</i> scores rather than raw scores"
-msgstr ""
+msgstr "使用 <i>Z</i> 分数而非原始分数"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:356
 msgctxt "ScatterplotOptions|"
 msgid "<i>r</i> value on scatterplot"
-msgstr ""
+msgstr "散点图上的 <i>r</i> 值"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/UnitsLayout.qml:8
 msgctxt "UnitsLayout|"
 msgid "Units"
-msgstr ""
+msgstr "单位"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:34
 msgctxt "jasp_describe|"
 msgid "Outcome variable"
-msgstr ""
+msgstr "结果变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:39
 msgctxt "jasp_describe|"
 msgid "<b>Results options</b>"
-msgstr ""
+msgstr "<b>结果选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:45
 msgctxt "jasp_describe|"
 msgid "Extra details"
-msgstr ""
+msgstr "附加细节"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:51
 msgctxt "jasp_describe|"
 msgid "<b>Explore</b>"
-msgstr ""
+msgstr "<b>探索</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:60
 msgctxt "jasp_describe|"
 msgid "Location"
-msgstr ""
+msgstr "位置"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:65
 msgctxt "jasp_describe|"
 msgid "Mean"
-msgstr ""
+msgstr "均值"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:70
 msgctxt "jasp_describe|"
 msgid "Median"
-msgstr ""
+msgstr "中位数"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:75
 msgctxt "jasp_describe|"
 msgid "Spread"
-msgstr ""
+msgstr "离散度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:80
 msgctxt "jasp_describe|"
 msgid "Standard deviation"
-msgstr ""
+msgstr "标准差"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:85
 msgctxt "jasp_describe|"
 msgid "Quartiles"
-msgstr ""
+msgstr "四分位数"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:89
 msgctxt "jasp_describe|"
 msgid "<i>z</i> scores"
-msgstr ""
+msgstr "<i>z</i> 分数"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:94
 msgctxt "jasp_describe|"
 msgid "<i>z</i> lines"
-msgstr ""
+msgstr "<i>z</i> 线"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:103
 msgctxt "jasp_describe|"
 msgid "Percentiles"
-msgstr ""
+msgstr "百分位数"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:109
 msgctxt "jasp_describe|"
 msgid "Highlight bottom"
-msgstr ""
+msgstr "突出显示底部"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:121
 msgctxt "jasp_describe|"
 msgid "Figure options"
-msgstr ""
+msgstr "图形选项"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:131
 msgctxt "jasp_describe|"
 msgid "Aesthetics"
-msgstr ""
+msgstr "图形属性"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:139
 msgctxt "jasp_describe|"
 msgid "Bars and dots"
-msgstr ""
+msgstr "条形与点"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:145
 msgctxt "jasp_describe|"
 msgid "Outline"
-msgstr ""
+msgstr "轮廓"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:151
 msgctxt "jasp_describe|"
 msgid "Not-highlighted"
-msgstr ""
+msgstr "未突出显示"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:157
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:169
 msgctxt "jasp_describe|"
 msgid "Fill"
-msgstr ""
+msgstr "填充"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_describe.qml:163
 msgctxt "jasp_describe|"
 msgid "Highlighted"
-msgstr ""
+msgstr "突出显示"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:49
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Fully between subjects"
-msgstr ""
+msgstr "完全组间"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:56
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Mixed (RCT)"
-msgstr ""
+msgstr "混合（RCT）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:74
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Analyze full data"
-msgstr ""
+msgstr "分析完整数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:81
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Analyze summary data"
-msgstr ""
+msgstr "分析汇总数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:100
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Outcome variable"
-msgstr ""
+msgstr "结果变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:101
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Grouping variable A"
-msgstr ""
+msgstr "分组变量 A"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:102
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Grouping variable B"
-msgstr ""
+msgstr "分组变量 B"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:128
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Variable A"
-msgstr ""
+msgstr "变量 A"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:136
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Variable B"
-msgstr ""
+msgstr "变量 B"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:143
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "A1 level"
-msgstr ""
+msgstr "A1 水平"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:149
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "A2 level"
-msgstr ""
+msgstr "A2 水平"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:156
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "B1 level"
-msgstr ""
+msgstr "B1 水平"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:164
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:175
@@ -867,7 +874,7 @@ msgstr ""
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:258
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "<i>M</i>"
-msgstr ""
+msgstr "<i>M</i>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:189
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:200
@@ -875,7 +882,7 @@ msgstr ""
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:285
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "<i>s</i>"
-msgstr ""
+msgstr "<i>s</i>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:214
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:227
@@ -883,297 +890,297 @@ msgstr ""
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:314
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "<i>n</i>"
-msgstr ""
+msgstr "<i>n</i>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:240
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "B2 level"
-msgstr ""
+msgstr "B2 水平"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:330
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:374
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Outcome variable name"
-msgstr ""
+msgstr "结果变量名称"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:331
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:375
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "My outcome variable"
-msgstr ""
+msgstr "我的结果变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:356
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "First repeated measure"
-msgstr ""
+msgstr "第一个重复测量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:357
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Second repeated measure"
-msgstr ""
+msgstr "第二个重复测量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:358
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Grouping variable"
-msgstr ""
+msgstr "分组变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:365
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Repeated measure name"
-msgstr ""
+msgstr "重复测量名称"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:366
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Time"
-msgstr ""
+msgstr "时间"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:385
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "<b>Between-subjects analysis options</b>"
-msgstr ""
+msgstr "<b>组间分析选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:392
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Effect size of interest"
-msgstr ""
+msgstr "关注的效应量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:405
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Assume equal variances"
-msgstr ""
+msgstr "假设方差相等"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:414
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "<b>Analysis options</b>"
-msgstr ""
+msgstr "<b>分析选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:431
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "<b>Results options</b>"
-msgstr ""
+msgstr "<b>结果选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:435
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Extra details"
-msgstr ""
+msgstr "附加细节"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:441
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "Figure to emphasize interaction"
-msgstr ""
+msgstr "用于强调交互作用的图"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_2x2.qml:447
 msgctxt "jasp_estimate_mdiff_2x2|"
 msgid "CI for each simple effect"
-msgstr ""
+msgstr "每个简单效应的置信区间"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:50
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "Analyze full data"
-msgstr ""
+msgstr "分析完整数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:57
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "Analyze summary data"
-msgstr ""
+msgstr "分析汇总数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:77
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "Outcome variable(s)"
-msgstr ""
+msgstr "结果变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:83
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "Grouping variable"
-msgstr ""
+msgstr "分组变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:106
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "Grouping variable levels"
-msgstr ""
+msgstr "分组变量水平"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:116
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "Group means"
-msgstr ""
+msgstr "组均值"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:126
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "Group standard deviations"
-msgstr ""
+msgstr "组标准差"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:136
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "Group sample sizes"
-msgstr ""
+msgstr "组样本量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:151
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "Outcome variable name"
-msgstr ""
+msgstr "结果变量名称"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:159
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "Grouping variable name"
-msgstr ""
+msgstr "分组变量名称"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:176
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "<b>Define contrast</b>"
-msgstr ""
+msgstr "<b>定义对比</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:183
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "Reference subset"
-msgstr ""
+msgstr "参考子集"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:191
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "Comparison subset"
-msgstr ""
+msgstr "比较子集"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:200
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "<b>Analysis options</b>"
-msgstr ""
+msgstr "<b>分析选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:215
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "Effect size of interest"
-msgstr ""
+msgstr "关注的效应量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:228
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "Assume equal variances"
-msgstr ""
+msgstr "假设方差相等"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:237
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "<b>Results options</b>"
-msgstr ""
+msgstr "<b>结果选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_ind_contrast.qml:241
 msgctxt "jasp_estimate_mdiff_ind_contrast|"
 msgid "Extra details"
-msgstr ""
+msgstr "附加细节"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:48
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Analyze full data"
-msgstr ""
+msgstr "分析完整数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:58
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Analyze summary data"
-msgstr ""
+msgstr "分析汇总数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:77
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Outcome variable"
-msgstr ""
+msgstr "结果变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:96
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Mean (<i>M</i>)"
-msgstr ""
+msgstr "均值（<i>M</i>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:110
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Standard deviation (<i>s</i>)"
-msgstr ""
+msgstr "标准差（<i>s</i>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:125
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Sample size (<i>N</i>)"
-msgstr ""
+msgstr "样本量（<i>N</i>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:140
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Outcome variable name"
-msgstr ""
+msgstr "结果变量名称"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:164
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "<b>Analysis options</b>"
-msgstr ""
+msgstr "<b>分析选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:177
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Effect size of interest"
-msgstr ""
+msgstr "关注的效应量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:191
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "<b>Results options</b>"
-msgstr ""
+msgstr "<b>结果选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:195
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Extra details"
-msgstr ""
+msgstr "附加细节"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:200
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Calculation components"
-msgstr ""
+msgstr "计算组件"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:213
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Aesthetics"
-msgstr ""
+msgstr "图形属性"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:227
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "<b>CI</b>"
-msgstr ""
+msgstr "<b>置信区间</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:229
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Style"
-msgstr ""
+msgstr "样式"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:238
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Thickness"
-msgstr ""
+msgstr "粗细"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:252
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Color"
-msgstr ""
+msgstr "颜色"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:263
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:286
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:345
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Transparency"
-msgstr ""
+msgstr "透明度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:273
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "<b>Error distribution</b>"
-msgstr ""
+msgstr "<b>误差分布</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:275
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:331
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Fill"
-msgstr ""
+msgstr "填充"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:296
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "<b>The raw data</b>"
-msgstr ""
+msgstr "<b>原始数据</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:298
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Shape"
-msgstr ""
+msgstr "形状"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:308
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Size"
-msgstr ""
+msgstr "大小"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:318
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:343
@@ -1184,127 +1191,127 @@ msgstr ""
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_one.qml:320
 msgctxt "jasp_estimate_mdiff_one|"
 msgid "Outline"
-msgstr ""
+msgstr "轮廓"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:61
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Analyze full data"
-msgstr ""
+msgstr "分析完整数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:68
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Analyze summary data"
-msgstr ""
+msgstr "分析汇总数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:86
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Reference variable"
-msgstr ""
+msgstr "参考变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:87
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Comparison variable"
-msgstr ""
+msgstr "比较变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:116
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:132
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Mean (<i>M</i>)"
-msgstr ""
+msgstr "均值（<i>M</i>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:157
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Standard deviation (<i>s</i>)"
-msgstr ""
+msgstr "标准差（<i>s</i>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:185
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Sample size (<i>N</i>)"
-msgstr ""
+msgstr "样本量（<i>N</i>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:216
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Enter <i>r</i>"
-msgstr ""
+msgstr "输入 <i>r</i>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:227
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Enter standard deviation of difference scores (<i>s</i><sub>diff</sub>)"
-msgstr ""
+msgstr "输入差值分数的标准差（<i>s</i><sub>diff</sub>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:236
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Correlation (<i>r</i>)"
-msgstr ""
+msgstr "相关（<i>r</i>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:260
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Standard deviation of difference scores (<i>s</i><sub>diff</sub>)"
-msgstr ""
+msgstr "差值分数的标准差（<i>s</i><sub>diff</sub>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:288
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "<b>Analysis options</b>"
-msgstr ""
+msgstr "<b>分析选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:303
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Effect size of interest"
-msgstr ""
+msgstr "关注的效应量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:317
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "<b>Results options</b>"
-msgstr ""
+msgstr "<b>结果选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:321
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Extra details"
-msgstr ""
+msgstr "附加细节"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:326
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Calculation components"
-msgstr ""
+msgstr "计算组件"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:332
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Ratio between groups (appropriate only for true ratio scales"
-msgstr ""
+msgstr "组间比值（仅适用于真正的比率尺度）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:348
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Aesthetics"
-msgstr ""
+msgstr "图形属性"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:392
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:738
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Shape"
-msgstr ""
+msgstr "形状"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:418
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:767
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Size"
-msgstr ""
+msgstr "大小"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:443
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:798
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Outline"
-msgstr ""
+msgstr "轮廓"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:468
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:663
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:827
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Fill"
-msgstr ""
+msgstr "填充"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:493
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:619
@@ -1312,147 +1319,147 @@ msgstr ""
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:856
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Transparency"
-msgstr ""
+msgstr "透明度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:518
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "<b>CI</b>"
-msgstr ""
+msgstr "<b>置信区间</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:534
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Style"
-msgstr ""
+msgstr "样式"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:558
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Thickness"
-msgstr ""
+msgstr "粗细"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:590
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "Color"
-msgstr ""
+msgstr "颜色"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_paired.qml:647
 msgctxt "jasp_estimate_mdiff_paired|"
 msgid "<b>Error distribution</b>"
-msgstr ""
+msgstr "<b>误差分布</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:49
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Analyze full data"
-msgstr ""
+msgstr "分析完整数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:56
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Analyze summary data"
-msgstr ""
+msgstr "分析汇总数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:74
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Outcome variable(s)"
-msgstr ""
+msgstr "结果变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:75
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Grouping variable"
-msgstr ""
+msgstr "分组变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:84
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Switch comparison order"
-msgstr ""
+msgstr "切换比较顺序"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:128
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Mean (<i>M</i>)"
-msgstr ""
+msgstr "均值（<i>M</i>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:155
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Standard deviation (<i>s</i>)"
-msgstr ""
+msgstr "标准差（<i>s</i>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:183
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Sample size (<i>n</i>)"
-msgstr ""
+msgstr "样本量（<i>n</i>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:217
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Outcome variable name"
-msgstr ""
+msgstr "结果变量名称"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:225
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Grouping variable name"
-msgstr ""
+msgstr "分组变量名称"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:242
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "<b>Analysis options</b>"
-msgstr ""
+msgstr "<b>分析选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:257
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Effect size of interest"
-msgstr ""
+msgstr "关注的效应量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:270
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Assume equal variances"
-msgstr ""
+msgstr "假设方差相等"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:279
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "<b>Results options</b>"
-msgstr ""
+msgstr "<b>结果选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:283
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Extra details"
-msgstr ""
+msgstr "附加细节"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:288
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Calculation components"
-msgstr ""
+msgstr "计算组件"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:294
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Ratio between groups (appropriate only for true ratio scales)"
-msgstr ""
+msgstr "组间比值（仅适用于真正的比率尺度）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:303
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Aesthetics"
-msgstr ""
+msgstr "图形属性"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:347
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:677
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Shape"
-msgstr ""
+msgstr "形状"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:373
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:702
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Size"
-msgstr ""
+msgstr "大小"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:398
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:728
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Outline"
-msgstr ""
+msgstr "轮廓"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:423
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:608
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:753
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Fill"
-msgstr ""
+msgstr "填充"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:448
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:567
@@ -1460,247 +1467,247 @@ msgstr ""
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:778
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Transparency"
-msgstr ""
+msgstr "透明度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:473
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "<b>CI</b>"
-msgstr ""
+msgstr "<b>置信区间</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:489
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Style"
-msgstr ""
+msgstr "样式"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:512
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Thickness"
-msgstr ""
+msgstr "粗细"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:541
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "Color"
-msgstr ""
+msgstr "颜色"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_mdiff_two.qml:592
 msgctxt "jasp_estimate_mdiff_two|"
 msgid "<b>Error distribution</b>"
-msgstr ""
+msgstr "<b>误差分布</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_one.qml:47
 msgctxt "jasp_estimate_pdiff_one|"
 msgid "Analyze full data"
-msgstr ""
+msgstr "分析完整数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_one.qml:54
 msgctxt "jasp_estimate_pdiff_one|"
 msgid "Analyze summary data"
-msgstr ""
+msgstr "分析汇总数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_one.qml:70
 msgctxt "jasp_estimate_pdiff_one|"
 msgid "Outcome variable"
-msgstr ""
+msgstr "结果变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_one.qml:157
 msgctxt "jasp_estimate_pdiff_one|"
 msgid "<b>Analysis options</b>"
-msgstr ""
+msgstr "<b>分析选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_one.qml:171
 msgctxt "jasp_estimate_pdiff_one|"
 msgid "Missing cases are counted"
-msgstr ""
+msgstr "缺失个案计入"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_one.qml:179
 msgctxt "jasp_estimate_pdiff_one|"
 msgid "<b>Results options</b>"
-msgstr ""
+msgstr "<b>结果选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_one.qml:183
 msgctxt "jasp_estimate_pdiff_one|"
 msgid "Extra details"
-msgstr ""
+msgstr "附加细节"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_one.qml:188
 msgctxt "jasp_estimate_pdiff_one|"
 msgid "Lines at proportion intervals"
-msgstr ""
+msgstr "比例区间处的线"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_one.qml:204
 msgctxt "jasp_estimate_pdiff_one|"
 msgid "Aesthetics"
-msgstr ""
+msgstr "图形属性"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_one.qml:214
 msgctxt "jasp_estimate_pdiff_one|"
 msgid "<b>CI</b>"
-msgstr ""
+msgstr "<b>置信区间</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_one.qml:220
 msgctxt "jasp_estimate_pdiff_one|"
 msgid "Style"
-msgstr ""
+msgstr "样式"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_paired.qml:43
 msgctxt "jasp_estimate_pdiff_paired|"
 msgid "Analyze full data"
-msgstr ""
+msgstr "分析完整数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_paired.qml:50
 msgctxt "jasp_estimate_pdiff_paired|"
 msgid "Analyze summary data"
-msgstr ""
+msgstr "分析汇总数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_paired.qml:66
 msgctxt "jasp_estimate_pdiff_paired|"
 msgid "Reference measure"
-msgstr ""
+msgstr "参考测量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_paired.qml:67
 msgctxt "jasp_estimate_pdiff_paired|"
 msgid "Comparison measure"
-msgstr ""
+msgstr "比较测量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_paired.qml:204
 msgctxt "jasp_estimate_pdiff_paired|"
 msgid "<b>Analysis options</b>"
-msgstr ""
+msgstr "<b>分析选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_paired.qml:219
 msgctxt "jasp_estimate_pdiff_paired|"
 msgid "<b>Results options</b>"
-msgstr ""
+msgstr "<b>结果选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_paired.qml:223
 msgctxt "jasp_estimate_pdiff_paired|"
 msgid "Extra details"
-msgstr ""
+msgstr "附加细节"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_paired.qml:242
 msgctxt "jasp_estimate_pdiff_paired|"
 msgid "Aesthetics"
-msgstr ""
+msgstr "图形属性"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_paired.qml:254
 msgctxt "jasp_estimate_pdiff_paired|"
 msgid "<b>CI</b>"
-msgstr ""
+msgstr "<b>置信区间</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_paired.qml:259
 msgctxt "jasp_estimate_pdiff_paired|"
 msgid "Style"
-msgstr ""
+msgstr "样式"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_two.qml:43
 msgctxt "jasp_estimate_pdiff_two|"
 msgid "Analyze full data"
-msgstr ""
+msgstr "分析完整数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_two.qml:50
 msgctxt "jasp_estimate_pdiff_two|"
 msgid "Analyze summary data"
-msgstr ""
+msgstr "分析汇总数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_two.qml:66
 msgctxt "jasp_estimate_pdiff_two|"
 msgid "Outcome variable"
-msgstr ""
+msgstr "结果变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_two.qml:67
 msgctxt "jasp_estimate_pdiff_two|"
 msgid "Grouping variable"
-msgstr ""
+msgstr "分组变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_two.qml:200
 msgctxt "jasp_estimate_pdiff_two|"
 msgid "<b>Analysis options</b>"
-msgstr ""
+msgstr "<b>分析选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_two.qml:214
 msgctxt "jasp_estimate_pdiff_two|"
 msgid "Missing cases are counted"
-msgstr ""
+msgstr "缺失个案计入"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_two.qml:221
 msgctxt "jasp_estimate_pdiff_two|"
 msgid "<b>Results options</b>"
-msgstr ""
+msgstr "<b>结果选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_two.qml:225
 msgctxt "jasp_estimate_pdiff_two|"
 msgid "Extra details"
-msgstr ""
+msgstr "附加细节"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_two.qml:230
 msgctxt "jasp_estimate_pdiff_two|"
 msgid "Odds ratio"
-msgstr ""
+msgstr "优势比"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_two.qml:235
 msgctxt "jasp_estimate_pdiff_two|"
 msgid "Correlation (ϕ)"
-msgstr ""
+msgstr "相关（ϕ）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_two.qml:246
 msgctxt "jasp_estimate_pdiff_two|"
 msgid "&#120536;<sup>2</sup> analysis"
-msgstr ""
+msgstr "&#120536;<sup>2</sup> 分析"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_two.qml:257
 msgctxt "jasp_estimate_pdiff_two|"
 msgid "Observed frequencies"
-msgstr ""
+msgstr "观测频数"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_two.qml:264
 msgctxt "jasp_estimate_pdiff_two|"
 msgid "Expected frequencies"
-msgstr ""
+msgstr "期望频数"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_two.qml:271
 msgctxt "jasp_estimate_pdiff_two|"
 msgid "Both"
-msgstr ""
+msgstr "两者"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_two.qml:295
 msgctxt "jasp_estimate_pdiff_two|"
 msgid "Aesthetics"
-msgstr ""
+msgstr "图形属性"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_two.qml:307
 msgctxt "jasp_estimate_pdiff_two|"
 msgid "<b>CI</b>"
-msgstr ""
+msgstr "<b>置信区间</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_pdiff_two.qml:312
 msgctxt "jasp_estimate_pdiff_two|"
 msgid "Style"
-msgstr ""
+msgstr "样式"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:42
 msgctxt "jasp_estimate_r|"
 msgid "Analyze full data"
-msgstr ""
+msgstr "分析完整数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:49
 msgctxt "jasp_estimate_r|"
 msgid "Analyze summary data"
-msgstr ""
+msgstr "分析汇总数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:65
 msgctxt "jasp_estimate_r|"
 msgid "<i>X</i> Variable"
-msgstr ""
+msgstr "<i>X</i> 变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:66
 msgctxt "jasp_estimate_r|"
 msgid "<i>Y</i> Variable"
-msgstr ""
+msgstr "<i>Y</i> 变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:88
 msgctxt "jasp_estimate_r|"
 msgid "Correlation (<i>r</i>)"
-msgstr ""
+msgstr "相关（<i>r</i>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:104
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:123
@@ -1711,415 +1718,415 @@ msgstr ""
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:108
 msgctxt "jasp_estimate_r|"
 msgid "Sample size (<i>N</i>)"
-msgstr ""
+msgstr "样本量（<i>N</i>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:128
 msgctxt "jasp_estimate_r|"
 msgid "<i>X</i>-variable name"
-msgstr ""
+msgstr "<i>X</i> 变量名称"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:143
 msgctxt "jasp_estimate_r|"
 msgid "<i>Y</i>-variable name"
-msgstr ""
+msgstr "<i>Y</i> 变量名称"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:171
 msgctxt "jasp_estimate_r|"
 msgid "<b>Analysis options</b>"
-msgstr ""
+msgstr "<b>分析选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:186
 msgctxt "jasp_estimate_r|"
 msgid "<b>Results options</b>"
-msgstr ""
+msgstr "<b>结果选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:190
 msgctxt "jasp_estimate_r|"
 msgid "Extra details"
-msgstr ""
+msgstr "附加细节"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:196
 msgctxt "jasp_estimate_r|"
 msgid "<b>Regression</b>"
-msgstr ""
+msgstr "<b>回归</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:205
 msgctxt "jasp_estimate_r|"
 msgid "Regression analysis"
-msgstr ""
+msgstr "回归分析"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:216
 msgctxt "jasp_estimate_r|"
 msgid "Line"
-msgstr ""
+msgstr "线"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:224
 msgctxt "jasp_estimate_r|"
 msgid "CI on Line"
-msgstr ""
+msgstr "线的置信区间"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:232
 msgctxt "jasp_estimate_r|"
 msgid "Residuals"
-msgstr ""
+msgstr "残差"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:242
 msgctxt "jasp_estimate_r|"
 msgid "Prediction interval"
-msgstr ""
+msgstr "预测区间"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:250
 msgctxt "jasp_estimate_r|"
 msgid "Enter <i>X</i> value to generate prediction (<i>&#374;</i>)"
-msgstr ""
+msgstr "输入 <i>X</i> 值以生成预测（<i>Ŷ</i>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:265
 msgctxt "jasp_estimate_r|"
 msgid "Scatterplot aesthetics"
-msgstr ""
+msgstr "散点图图形属性"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:275
 msgctxt "jasp_estimate_r|"
 msgid "<b>Raw data</b>"
-msgstr ""
+msgstr "<b>原始数据</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:282
 msgctxt "jasp_estimate_r|"
 msgid "Shape"
-msgstr ""
+msgstr "形状"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:291
 msgctxt "jasp_estimate_r|"
 msgid "Size"
-msgstr ""
+msgstr "大小"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:301
 msgctxt "jasp_estimate_r|"
 msgid "Outline"
-msgstr ""
+msgstr "轮廓"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:310
 msgctxt "jasp_estimate_r|"
 msgid "Fill"
-msgstr ""
+msgstr "填充"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:318
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:696
 msgctxt "jasp_estimate_r|"
 msgid "Transparency"
-msgstr ""
+msgstr "透明度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:338
 msgctxt "jasp_estimate_r|"
 msgid "<u>Regression</u>"
-msgstr ""
+msgstr "<u>回归</u>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:342
 msgctxt "jasp_estimate_r|"
 msgid "<u>Prediction</u>"
-msgstr ""
+msgstr "<u>预测</u>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:347
 msgctxt "jasp_estimate_r|"
 msgid "<u>Residual</u>"
-msgstr ""
+msgstr "<u>残差</u>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:473
 msgctxt "jasp_estimate_r|"
 msgid "<b>Prediction from <i>X</i></b>"
-msgstr ""
+msgstr "<b>基于 <i>X</i> 的预测</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:480
 msgctxt "jasp_estimate_r|"
 msgid "Label size"
-msgstr ""
+msgstr "标签大小"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:490
 msgctxt "jasp_estimate_r|"
 msgid "Label color"
-msgstr ""
+msgstr "标签颜色"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:509
 msgctxt "jasp_estimate_r|"
 msgid "<u>Guidelines</u>"
-msgstr ""
+msgstr "<u>参考线</u>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:513
 msgctxt "jasp_estimate_r|"
 msgid "<u>PI</u>"
-msgstr ""
+msgstr "<u>PI</u>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:518
 msgctxt "jasp_estimate_r|"
 msgid "<u>CI</u>"
-msgstr ""
+msgstr "<u>CI</u>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:644
 msgctxt "jasp_estimate_r|"
 msgid "Estimation figure options"
-msgstr ""
+msgstr "估计图选项"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:658
 msgctxt "jasp_estimate_r|"
 msgid "Estimation figure aesthetics"
-msgstr ""
+msgstr "估计图图形属性"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:665
 msgctxt "jasp_estimate_r|"
 msgid "<b>CI</b>"
-msgstr ""
+msgstr "<b>置信区间</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:671
 msgctxt "jasp_estimate_r|"
 msgid "Style"
-msgstr ""
+msgstr "样式"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:679
 msgctxt "jasp_estimate_r|"
 msgid "Thickness"
-msgstr ""
+msgstr "粗细"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_r.qml:688
 msgctxt "jasp_estimate_r|"
 msgid "Color"
-msgstr ""
+msgstr "颜色"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:43
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Analyze full data"
-msgstr ""
+msgstr "分析完整数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:50
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Analyze summary data"
-msgstr ""
+msgstr "分析汇总数据"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:66
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "<i>X</i> Variable"
-msgstr ""
+msgstr "<i>X</i> 变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:67
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "<i>Y</i> Variable"
-msgstr ""
+msgstr "<i>Y</i> 变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:68
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Grouping variable"
-msgstr ""
+msgstr "分组变量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:93
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "<b>Reference group</b>"
-msgstr ""
+msgstr "<b>参考组</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:97
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "<b>Comparison group</b>"
-msgstr ""
+msgstr "<b>比较组</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:101
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:126
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Correlation (<i>r</i>)"
-msgstr ""
+msgstr "相关（<i>r</i>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:159
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Sample size (<i>N</i>)"
-msgstr ""
+msgstr "样本量（<i>N</i>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:190
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "<i>X</i>-variable name"
-msgstr ""
+msgstr "<i>X</i> 变量名称"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:204
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "<i>Y</i>-variable name"
-msgstr ""
+msgstr "<i>Y</i> 变量名称"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:218
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Grouping variable name"
-msgstr ""
+msgstr "分组变量名称"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:248
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "<b>Analysis options</b>"
-msgstr ""
+msgstr "<b>分析选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:263
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "<b>Results options</b>"
-msgstr ""
+msgstr "<b>结果选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:267
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Extra details"
-msgstr ""
+msgstr "附加细节"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:273
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "<b>Regression</b>"
-msgstr ""
+msgstr "<b>回归</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:284
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Line"
-msgstr ""
+msgstr "线"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:292
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "CI on Line"
-msgstr ""
+msgstr "线的置信区间"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:310
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Scatterplot aesthetics"
-msgstr ""
+msgstr "散点图图形属性"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:325
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "<u>Reference</u>"
-msgstr ""
+msgstr "<u>参考</u>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:330
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "<u>Comparison</u>"
-msgstr ""
+msgstr "<u>比较</u>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:335
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "<u>Unused</u>"
-msgstr ""
+msgstr "<u>未使用</u>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:339
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "<b>Raw data</b>"
-msgstr ""
+msgstr "<b>原始数据</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:356
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Shape"
-msgstr ""
+msgstr "形状"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:386
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Size"
-msgstr ""
+msgstr "大小"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:417
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Outline"
-msgstr ""
+msgstr "轮廓"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:446
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Fill"
-msgstr ""
+msgstr "填充"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:475
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:599
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Transparency"
-msgstr ""
+msgstr "透明度"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:507
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "<b>Regression lines</b>"
-msgstr ""
+msgstr "<b>回归线</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:524
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:661
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Style"
-msgstr ""
+msgstr "样式"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:547
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Thickness"
-msgstr ""
+msgstr "粗细"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:574
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Color"
-msgstr ""
+msgstr "颜色"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:629
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Estimation figure options"
-msgstr ""
+msgstr "估计图选项"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:644
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "Estimation figure aesthetics"
-msgstr ""
+msgstr "估计图图形属性"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_estimate_rdiff_two.qml:656
 msgctxt "jasp_estimate_rdiff_two|"
 msgid "<b>CI</b>"
-msgstr ""
+msgstr "<b>置信区间</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:46
 msgctxt "jasp_meta_mdiff_two|"
 msgid "Analyze original units"
-msgstr ""
+msgstr "分析原始单位"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:56
 msgctxt "jasp_meta_mdiff_two|"
 msgid "Analyze Cohen's <i>d</i>"
-msgstr ""
+msgstr "分析 Cohen's <i>d</i>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:73
 msgctxt "jasp_meta_mdiff_two|"
 msgid "Reference means (<i>M</i><sub>reference</sub>)"
-msgstr ""
+msgstr "参考均值（<i>M</i><sub>reference</sub>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:79
 msgctxt "jasp_meta_mdiff_two|"
 msgid "Reference standard deviations (<i>s</i><sub>reference</sub>)"
-msgstr ""
+msgstr "参考标准差（<i>s</i><sub>reference</sub>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:87
 msgctxt "jasp_meta_mdiff_two|"
 msgid "Reference sample sizes (<i>N</i><sub>reference</sub>)"
-msgstr ""
+msgstr "参考样本量（<i>N</i><sub>reference</sub>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:94
 msgctxt "jasp_meta_mdiff_two|"
 msgid "Comparison means (<i>M</i><sub>comparison</sub>)"
-msgstr ""
+msgstr "比较均值（<i>M</i><sub>comparison</sub>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:102
 msgctxt "jasp_meta_mdiff_two|"
 msgid "Comparison standard deviations (<i>s</i><sub>comparison</sub>)"
-msgstr ""
+msgstr "比较标准差（<i>s</i><sub>comparison</sub>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:110
 msgctxt "jasp_meta_mdiff_two|"
 msgid "Comparison sample sizes (<i>N</i><sub>comparison</sub>)"
-msgstr ""
+msgstr "比较样本量（<i>N</i><sub>comparison</sub>）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:116
 msgctxt "jasp_meta_mdiff_two|"
 msgid "<i>r</i> (Optional; leave blank for between-subjects)"
-msgstr ""
+msgstr "<i>r</i>（可选；组间设计请留空）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:122
 msgctxt "jasp_meta_mdiff_two|"
 msgid "Study labels (optional"
-msgstr ""
+msgstr "研究标签（可选）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:129
 msgctxt "jasp_meta_mdiff_two|"
 msgid "Moderator (optional"
-msgstr ""
+msgstr "调节变量（可选）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:137
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:141
@@ -2134,282 +2141,282 @@ msgstr ""
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:164
 msgctxt "jasp_meta_mdiff_two|"
 msgid "<b>Analysis options</b>"
-msgstr ""
+msgstr "<b>分析选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:175
 msgctxt "jasp_meta_mdiff_two|"
 msgid "Effect label"
-msgstr ""
+msgstr "效应标签"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:181
 msgctxt "jasp_meta_mdiff_two|"
 msgid "Effect size"
-msgstr ""
+msgstr "效应量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:196
 msgctxt "jasp_meta_mdiff_two|"
 msgid "Assume equal variances"
-msgstr ""
+msgstr "假设方差相等"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:201
 msgctxt "jasp_meta_mdiff_two|"
 msgid "Model"
-msgstr ""
+msgstr "模型"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:214
 msgctxt "jasp_meta_mdiff_two|"
 msgid "<b>Results options</b>"
-msgstr ""
+msgstr "<b>结果选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:221
 msgctxt "jasp_meta_mdiff_two|"
 msgid "Extra details"
-msgstr ""
+msgstr "附加细节"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mdiff_two.qml:226
 msgctxt "jasp_meta_mdiff_two|"
 msgid "Prediction intervals"
-msgstr ""
+msgstr "预测区间"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mean.qml:48
 msgctxt "jasp_meta_mean|"
 msgid "Analyze original units"
-msgstr ""
+msgstr "分析原始单位"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mean.qml:58
 msgctxt "jasp_meta_mean|"
 msgid "Analyze Cohen's <i>d</i>"
-msgstr ""
+msgstr "分析 Cohen's <i>d</i>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mean.qml:76
 msgctxt "jasp_meta_mean|"
 msgid "Means"
-msgstr ""
+msgstr "均值"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mean.qml:83
 msgctxt "jasp_meta_mean|"
 msgid "Standard deviations"
-msgstr ""
+msgstr "标准差"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mean.qml:92
 msgctxt "jasp_meta_mean|"
 msgid "Sample sizes"
-msgstr ""
+msgstr "样本量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mean.qml:99
 msgctxt "jasp_meta_mean|"
 msgid "Study labels (optional"
-msgstr ""
+msgstr "研究标签（可选）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mean.qml:106
 msgctxt "jasp_meta_mean|"
 msgid "Moderator (optional"
-msgstr ""
+msgstr "调节变量（可选）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mean.qml:114
 msgctxt "jasp_meta_mean|"
 msgid "<b>Analysis options</b>"
-msgstr ""
+msgstr "<b>分析选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mean.qml:125
 msgctxt "jasp_meta_mean|"
 msgid "Effect label"
-msgstr ""
+msgstr "效应标签"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mean.qml:131
 msgctxt "jasp_meta_mean|"
 msgid "Compare to reference value"
-msgstr ""
+msgstr "与参考值比较"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mean.qml:138
 msgctxt "jasp_meta_mean|"
 msgid "Effect size of interest"
-msgstr ""
+msgstr "关注的效应量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mean.qml:151
 msgctxt "jasp_meta_mean|"
 msgid "Model"
-msgstr ""
+msgstr "模型"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mean.qml:165
 msgctxt "jasp_meta_mean|"
 msgid "<b>Results options</b>"
-msgstr ""
+msgstr "<b>结果选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mean.qml:172
 msgctxt "jasp_meta_mean|"
 msgid "Extra details"
-msgstr ""
+msgstr "附加细节"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_mean.qml:177
 msgctxt "jasp_meta_mean|"
 msgid "Prediction intervals"
-msgstr ""
+msgstr "预测区间"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_pdiff_two.qml:39
 msgctxt "jasp_meta_pdiff_two|"
 msgid "Case counts in reference group"
-msgstr ""
+msgstr "参考组案例数"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_pdiff_two.qml:45
 msgctxt "jasp_meta_pdiff_two|"
 msgid "Sample sizes in reference group"
-msgstr ""
+msgstr "参考组样本量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_pdiff_two.qml:52
 msgctxt "jasp_meta_pdiff_two|"
 msgid "Case counts in comparison group"
-msgstr ""
+msgstr "比较组案例数"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_pdiff_two.qml:58
 msgctxt "jasp_meta_pdiff_two|"
 msgid "Sample sizes in comparison group"
-msgstr ""
+msgstr "比较组样本量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_pdiff_two.qml:64
 msgctxt "jasp_meta_pdiff_two|"
 msgid "Study labels (optional)"
-msgstr ""
+msgstr "研究标签（可选）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_pdiff_two.qml:71
 msgctxt "jasp_meta_pdiff_two|"
 msgid "Moderator (optional)"
-msgstr ""
+msgstr "调节变量（可选）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_pdiff_two.qml:79
 msgctxt "jasp_meta_pdiff_two|"
 msgid "<b>Analysis options</b>"
-msgstr ""
+msgstr "<b>分析选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_pdiff_two.qml:90
 msgctxt "jasp_meta_pdiff_two|"
 msgid "Effect label"
-msgstr ""
+msgstr "效应标签"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_pdiff_two.qml:96
 msgctxt "jasp_meta_pdiff_two|"
 msgid "Effect size"
-msgstr ""
+msgstr "效应量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_pdiff_two.qml:112
 msgctxt "jasp_meta_pdiff_two|"
 msgid "Model"
-msgstr ""
+msgstr "模型"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_pdiff_two.qml:124
 msgctxt "jasp_meta_pdiff_two|"
 msgid "<b>Results options</b>"
-msgstr ""
+msgstr "<b>结果选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_pdiff_two.qml:131
 msgctxt "jasp_meta_pdiff_two|"
 msgid "Extra details"
-msgstr ""
+msgstr "附加细节"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_pdiff_two.qml:136
 msgctxt "jasp_meta_pdiff_two|"
 msgid "Prediction intervals"
-msgstr ""
+msgstr "预测区间"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_proportion.qml:39
 msgctxt "jasp_meta_proportion|"
 msgid "Case counts"
-msgstr ""
+msgstr "案例数"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_proportion.qml:45
 msgctxt "jasp_meta_proportion|"
 msgid "Sample sizes"
-msgstr ""
+msgstr "样本量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_proportion.qml:51
 msgctxt "jasp_meta_proportion|"
 msgid "Study labels (optional)"
-msgstr ""
+msgstr "研究标签（可选）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_proportion.qml:58
 msgctxt "jasp_meta_proportion|"
 msgid "Moderator (optional)"
-msgstr ""
+msgstr "调节变量（可选）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_proportion.qml:66
 msgctxt "jasp_meta_proportion|"
 msgid "<b>Analysis options</b>"
-msgstr ""
+msgstr "<b>分析选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_proportion.qml:77
 msgctxt "jasp_meta_proportion|"
 msgid "Effect label"
-msgstr ""
+msgstr "效应标签"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_proportion.qml:84
 msgctxt "jasp_meta_proportion|"
 msgid "Model"
-msgstr ""
+msgstr "模型"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_proportion.qml:96
 msgctxt "jasp_meta_proportion|"
 msgid "<b>Results options</b>"
-msgstr ""
+msgstr "<b>结果选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_proportion.qml:103
 msgctxt "jasp_meta_proportion|"
 msgid "Extra details"
-msgstr ""
+msgstr "附加细节"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_proportion.qml:108
 msgctxt "jasp_meta_proportion|"
 msgid "Prediction intervals"
-msgstr ""
+msgstr "预测区间"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_r.qml:39
 msgctxt "jasp_meta_r|"
 msgid "<i>r</i> values"
-msgstr ""
+msgstr "<i>r</i> 值"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_r.qml:45
 msgctxt "jasp_meta_r|"
 msgid "Sample sizes"
-msgstr ""
+msgstr "样本量"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_r.qml:51
 msgctxt "jasp_meta_r|"
 msgid "Study labels (optional"
-msgstr ""
+msgstr "研究标签（可选）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_r.qml:58
 msgctxt "jasp_meta_r|"
 msgid "Moderator (optional"
-msgstr ""
+msgstr "调节变量（可选）"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_r.qml:66
 msgctxt "jasp_meta_r|"
 msgid "<b>Analysis options</b>"
-msgstr ""
+msgstr "<b>分析选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_r.qml:77
 msgctxt "jasp_meta_r|"
 msgid "Effect label"
-msgstr ""
+msgstr "效应标签"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_r.qml:84
 msgctxt "jasp_meta_r|"
 msgid "Model"
-msgstr ""
+msgstr "模型"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_r.qml:96
 msgctxt "jasp_meta_r|"
 msgid "<b>Results options</b>"
-msgstr ""
+msgstr "<b>结果选项</b>"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_r.qml:103
 msgctxt "jasp_meta_r|"
 msgid "Extra details"
-msgstr ""
+msgstr "附加细节"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/jasp_meta_r.qml:108
 msgctxt "jasp_meta_r|"
 msgid "Prediction intervals"
-msgstr ""
+msgstr "预测区间"
 
 #: /home/runner/work/jaspEsci/jaspEsci/inst/qml/esci/ScatterplotOptions.qml:350
 msgctxt "ScatterplotOptions|"
